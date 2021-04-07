@@ -1,1 +1,1 @@
-# Webscraping-of-State-Wise-Covid-Data
+# WebscrapingofStateWiseCovidStatus
